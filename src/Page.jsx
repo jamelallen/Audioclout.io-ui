@@ -28,7 +28,7 @@ function NavBar({ user, onUserChange }) {
           <NavItem>Issue / Artist List</NavItem>
         </LinkContainer>
         <LinkContainer to="/report">
-          <NavItem>Report(s)</NavItem>
+          <NavItem>Report(s)()</NavItem>
         </LinkContainer>
       </Nav>
       <Col sm={5}>
